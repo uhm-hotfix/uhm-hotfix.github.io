@@ -2,6 +2,8 @@
 
 UHM Hotfix is a web application that allows students to report suggestions or problems they find on campus in ten seconds or less. 
 
+![init-mockup](assets/uhm_hf_home.png)
+
 ## features
 
 <ul>
@@ -10,3 +12,4 @@ UHM Hotfix is a web application that allows students to report suggestions or pr
  <li> Real-time feed of new  problems and suggestions</li>
  <li> An Admin interface to manage problems and suggestions.
 </ul>
+
