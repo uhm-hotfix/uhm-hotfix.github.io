@@ -1,5 +1,6 @@
 # UHM Hotfix
-![logo](assets/logo.png =100x)
+<img src="logo.png" alt="logo" width="200"/>
+
 
 UHM Hotfix is a web application that allows students to report suggestions or problems they find on campus in ten seconds or less. 
 
