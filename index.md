@@ -16,6 +16,7 @@ UHM Hotfix is a web application that allows students to report suggestions or pr
  <li> An Admin interface to manage problems and suggestions.
 </ul>
 
-##Tech and Frameworks used
+## Tech and Frameworks used
+
 UHM Hotfix uses the Meteor full stack web framework, The React library, Semantic UI, and MongoDB.
 
