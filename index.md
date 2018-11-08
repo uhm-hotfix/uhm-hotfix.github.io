@@ -29,12 +29,15 @@ UHM Hotfix uses the Meteor full stack web framework, The React library, Semantic
 ## About the Team
 
 <B> Kennith Lauritzen </B>
+
 Kenneth is a senior pursuing a bachelor's degree in computer engineering at UH Manoa. He begain his college education with an interest in electronic hardware, but is now has a bigger interest in computer software and computer science. His interests include machine learning, low-level programming, and computer architecture.
 
 <B> Nicolas Lum </B>
+
 Nicolas is a computer science major at UH manoa. His interest in coding was sparked by computer games, specifically Starcraft 2. His curiosity shifted from game developement to software engineering, which has it's own interesting set of challenges. He has experience in HTML/CSS, JS, C, C++, SQL, Python, Java, and Swift.
 
 <B> Will Post </B>
+
 Will is a Kapiolani Community College transfer student and computer science major at UH Manoa. His interest in mathmatics led him to discover the joys of Computer Science via a research project involving data science. His interests include software developement, low-level programming, integrated systems, and data science. He has experience in C, C++, Python, Java, HTML and CSS, JS, Linux, and SQL.
 
 
