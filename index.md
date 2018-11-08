@@ -6,7 +6,7 @@ UHM Hotfix is a web application that allows students to report suggestions or pr
 
 ## Introduction
 
-University of Hawaii, Manoa is <b>our</b> campus. We all deserve a campus that is safe, clean, and beautiful. With UHM Hotfix, students make suggestions and report problems found on campus near-instantly using their laptops or smartphones. UHM Hotfix will encourage and empower students to take an active approach to improving our campus, so that we all can have a more enjoyable college experience.
+University of Hawaiʻi at Manoa is <b>our</b> campus. We all deserve a campus that is safe, clean, and beautiful. With UHM Hotfix, students make suggestions and report problems found on campus near-instantly using their laptops or smartphones. UHM Hotfix will encourage and empower students to take an active approach to improving our campus, so that we all can have a more enjoyable college experience.
 
 ![init-mockup](assets/uhm_hf_home.png)
 
