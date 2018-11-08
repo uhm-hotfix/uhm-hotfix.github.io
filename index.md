@@ -4,6 +4,9 @@
 
 UHM Hotfix is a web application that allows students to report suggestions or problems they find on campus in ten seconds or less. 
 
+## Introduction
+
+
 ![init-mockup](assets/uhm_hf_home.png)
 
 
@@ -22,5 +25,12 @@ UHM Hotfix uses the Meteor full stack web framework, The React library, Semantic
 
 ## About the Team
 
+<B> Kennith Lauritzen </B>
+
+<B> Nicolas Lum </B>
+
 <B> Will Post </B>
 
+# Next Steps
+
+The team will first focus on both creating the static web pages that will make up the site, and designing and implementing the database schema. Once this is completed, we will integrate the database with the static user interface. Finally, we will add the finishing touches by implementing the use of geolocation using the google maps api, and creating the new issue stream.
