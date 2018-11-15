@@ -31,15 +31,14 @@ UHM Hofix is a open-source! To downlooad, install, and run this application loca
 
 Please ensure you have these prerequisites on your machine:
 * <a href="https://nodejs.org/en/download/">NodeJS</a>
-* <a href="https://www.npmjs.com/package/semantic-ui-react">Semantic UI (React)</a>
 * <a href="https://www.meteor.com/install">Meteor</a>
 
 To download the application, please navigate to a directory where you would like to download the files, and run the following command:
 
-<B> Download using HTTPS: </B>
+Download using HTTPS:
 ```git clone https://github.com/uhm-hotfix/uhm-hotfix.git```
 
-<B> Download using SSH: </B> 
+Download using SSH: 
 ```git clone git@github.com:uhm-hotfix/uhm-hotfix.git```
 
 Once you have the files download, navigate into the uhm-hotfix directory and run ```npm install```.
