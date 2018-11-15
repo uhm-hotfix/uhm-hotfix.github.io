@@ -31,7 +31,7 @@ UHM Hotfix is at the early stages of developement. As of now, users can create a
 
 When you first go the the site, you are greeted with a landing page the explains what the project is about. 
 
-![landing-page](assets/assets/screencapture-localhost-3000-2018-11-11-13_40_10.png)
+![landing-page](assets/screencapture-localhost-3000-2018-11-11-13_40_10.png)
 
 
 ## Developer Guide
