@@ -35,8 +35,10 @@ Please ensure you have these prerequisites on your machine:
 * <a href="https://www.meteor.com/install">Meteor</a>
 
 To download the application, please navigate to a directory where you would like to download the files, and run the following command:
+
 <B> Download using HTTPS: </B>
 ```git clone https://github.com/uhm-hotfix/uhm-hotfix.git```
+
 <B> Download using SSH: </B> 
 ```git clone git@github.com:uhm-hotfix/uhm-hotfix.git```
 
