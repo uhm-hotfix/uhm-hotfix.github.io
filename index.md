@@ -8,7 +8,7 @@ UHM Hotfix is a web application that allows students to report suggestions or pr
 
 University of Hawaiʻi at Manoa is <b>our</b> campus. We all deserve a campus that is safe, clean, and beautiful. With UHM Hotfix, students make suggestions and report problems found on campus near-instantly using their laptops or smartphones. UHM Hotfix will encourage and empower students to take an active approach to improving our campus, so that we all can have a more enjoyable college experience.
 
-![init-mockup](assets/screencapture-localhost-3000-2018-11-11-13_40_10.png)
+![init-mockup](assets/uhm_hf_home.png)
 
 
 ## Features
@@ -26,19 +26,26 @@ University of Hawaiʻi at Manoa is <b>our</b> campus. We all deserve a campus th
 
 UHM Hotfix uses the Meteor full stack web framework, The React library, Semantic UI, and MongoDB.
 
+## User Guide
+UHM Hotfix is at the early stages of developement. As of now, users can create an acount, and checkout a basic layout for how the site will function. 
+
+When you first go the the site, you are greeted with a landing page the explains what the project is about. 
+
+![landing-page](assets/assets/uhm_hf_home.png)
+
+
 ## Developer Guide
-UHM Hofix is a open-source! To downlooad, install, and run this application locally on your machine, please follow the steps below:
+UHM Hofix is open-source! To download, install, and run this application locally on your machine, please follow the steps below:
 
 Please ensure you have these prerequisites on your machine:
 * <a href="https://nodejs.org/en/download/">NodeJS</a>
+* <a href="https://www.npmjs.com/package/semantic-ui-react">Semantic UI (React)</a>
 * <a href="https://www.meteor.com/install">Meteor</a>
 
 To download the application, please navigate to a directory where you would like to download the files, and run the following command:
-
-Download using HTTPS:
+<B> Download using HTTPS: </B>
 ```git clone https://github.com/uhm-hotfix/uhm-hotfix.git```
-
-Download using SSH: 
+<B> Download using SSH: </B> 
 ```git clone git@github.com:uhm-hotfix/uhm-hotfix.git```
 
 Once you have the files download, navigate into the uhm-hotfix directory and run ```npm install```.
