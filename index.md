@@ -33,6 +33,19 @@ When you first go the the site, you are greeted with a landing page the explains
 
 ![landing-page](assets/screencapture-localhost-3000-2018-11-11-13_40_10.png)
 
+The first thing you want to do is make a user account. Go to the top right corner of the page an click new user. 
+
+![create-user](assets/create-user.png)
+
+Now that you have an account, you can click on  the "report issue" button on the top menu to checkout the report issue page.
+
+![report-issue](assets/report-issue.png)
+
+Lastly, You can get a feel of how the issues will be displayed on the page by clicking issue feed on the top menu.
+
+![list-issues](assets/list-issues.png)
+
+
 
 ## Developer Guide
 UHM Hofix is open-source! To download, install, and run this application locally on your machine, please follow the steps below:
