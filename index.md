@@ -11,7 +11,7 @@ University of Hawaiʻi at Manoa is <b>our</b> campus. We all deserve a campus th
 ![init-mockup](assets/uhm_hf_home.png)
 
 
-## features
+## Features
 
 <ul>
  <li> Lightning fast, simple to use interface.</li>
@@ -26,9 +26,25 @@ University of Hawaiʻi at Manoa is <b>our</b> campus. We all deserve a campus th
 
 UHM Hotfix uses the Meteor full stack web framework, The React library, Semantic UI, and MongoDB.
 
+## Developer Guide
+UHM Hofix is a open-source! To downlooad, install, and run this application locally on your machine, please follow the steps below:
+
+Please ensure you have these prerequisites on your machine:
+* <a href="https://nodejs.org/en/download/">NodeJS</a>
+* <a href="https://www.npmjs.com/package/semantic-ui-react">Semantic UI (React)</a>
+* <a href="https://www.meteor.com/install">Meteor</a>
+
+To download the application, please navigate to a directory where you would like to download the files, and run the following command:
+HTTPS: ```git clone https://github.com/uhm-hotfix/uhm-hotfix.git```
+SSH: ```git clone git@github.com:uhm-hotfix/uhm-hotfix.git```
+
+Once you have the files download, navigate into the uhm-hotfix directory and run ```npm install```.
+
+After that, please run ```npm start```, and the application should be running on your localhost!
+
 ## About the Team
 
-<B> Kennith Lauritzen </B>
+<B> Kenneth Lauritzen </B>
 
 Kenneth is a senior pursuing a bachelor's degree in computer engineering at UH Manoa. He begain his college education with an interest in electronic hardware, but is now has a bigger interest in computer software and computer science. His interests include machine learning, low-level programming, and computer architecture.
 
