@@ -11,6 +11,7 @@ University of Hawaiʻi at Manoa is <b>our</b> campus. We all deserve a campus th
 <a href="https://github.com/uhm-hotfix/uhm-hotfix">Find us on GitHub!</a>
 
 <a href="https://github.com/uhm-hotfix/uhm-hotfix/projects/1">GitHub Milestone 1</a>
+
 <a href="https://github.com/uhm-hotfix/uhm-hotfix/projects/2">GitHub Milestone 2</a>
 
 ![init-mockup](assets/screencapture-localhost-3000-2018-11-11-13_40_10.png)
