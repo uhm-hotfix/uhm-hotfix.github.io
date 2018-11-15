@@ -31,7 +31,7 @@ UHM Hotfix is at the early stages of developement. As of now, users can create a
 
 When you first go the the site, you are greeted with a landing page the explains what the project is about. 
 
-![landing-page](assets/assets/uhm_hf_home.png)
+![landing-page](assets/assets/screencapture-localhost-3000-2018-11-11-13_40_10.png)
 
 
 ## Developer Guide
@@ -43,9 +43,11 @@ Please ensure you have these prerequisites on your machine:
 * <a href="https://www.meteor.com/install">Meteor</a>
 
 To download the application, please navigate to a directory where you would like to download the files, and run the following command:
-<B> Download using HTTPS: </B>
+
+Download using HTTPS:
 ```git clone https://github.com/uhm-hotfix/uhm-hotfix.git```
-<B> Download using SSH: </B> 
+
+Download using SSH:
 ```git clone git@github.com:uhm-hotfix/uhm-hotfix.git```
 
 Once you have the files download, navigate into the uhm-hotfix directory and run ```npm install```.
