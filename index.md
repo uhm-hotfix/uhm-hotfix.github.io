@@ -35,8 +35,10 @@ Please ensure you have these prerequisites on your machine:
 * <a href="https://www.meteor.com/install">Meteor</a>
 
 To download the application, please navigate to a directory where you would like to download the files, and run the following command:
-HTTPS: ```git clone https://github.com/uhm-hotfix/uhm-hotfix.git```
-SSH: ```git clone git@github.com:uhm-hotfix/uhm-hotfix.git```
+HTTPS:
+```git clone https://github.com/uhm-hotfix/uhm-hotfix.git```
+SSH: 
+```git clone git@github.com:uhm-hotfix/uhm-hotfix.git```
 
 Once you have the files download, navigate into the uhm-hotfix directory and run ```npm install```.
 
