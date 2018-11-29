@@ -107,4 +107,4 @@ Will is a Kapiolani Community College transfer student and computer science majo
 
 # Next Steps
 
-The team will first focus on both creating the static web pages that will make up the site, and designing and implementing the database schema. Once this is completed, we will integrate the database with the static user interface. Finally, we will add the finishing touches by implementing the use of geolocation using the google maps api, and creating the new issue stream.
+The team will flesh out the feed page, add comments to each issue, and add Geolocation capabilities.
