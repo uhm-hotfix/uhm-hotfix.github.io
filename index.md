@@ -41,7 +41,7 @@ UHM Hotfix is at the early stages of development. As of now, users can create an
 
 When you first go the the site, you are greeted with a landing page the explains what the project is about. 
 
-<img  width="500" style="text-align:center; border-style:solid; border-width:10px;" src="http://uhm-hotfix.github.io/assets/screencapture-localhost-3000-2018-11-11-13_40_10.png">
+<img  width="500" style="text-align:center; border-style:solid; border-width:5px;" src="http://uhm-hotfix.github.io/assets/screencapture-localhost-3000-2018-11-11-13_40_10.png">
 
 ---
 
@@ -49,7 +49,7 @@ When you first go the the site, you are greeted with a landing page the explains
 The first thing you want to do is make a user account. Go to the top right corner of the page an click new user.
 
 
-![create-user](assets/create-user.png)
+<img width='500' style="border-style:solid; border-width: 5px;" src="http://uhm-hotfix.github.io/assets/create-user.png">
 
 ---
 
@@ -57,14 +57,14 @@ The first thing you want to do is make a user account. Go to the top right corne
 Now that you have an account, you can click on  the "report issue" button on the top menu to checkout the report issue page.
 
 
-![report-issue](assets/report-issue.png)
+<img width='500' style="border-style:solid; border-width: 5px;" src="http://uhm-hotfix.github.io/assets/report-issue.png">
 
 ---
 
 Lastly, You can get a feel of how the issues will be displayed on the page by clicking issue feed on the top menu.
 
 
-![list-issues](assets/list-issues.png)
+<img width='500' style="border-style:solid; border-width: 5px;" src="http://uhm-hotfix.github.io/assets/list-issues.png">
 
 ---
 
