@@ -1,8 +1,12 @@
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/semantic-ui@2.4.0/dist/semantic.min.css"></link>
+
 <img src="assets/logo.png" alt="logo" width="300"/>
 
 # UHM Hotfix
 
 UHM Hotfix is a web application that allows students to report suggestions or problems they find on campus in ten seconds or less. 
+
+<a href="http://uhm-hotfix.meteorapp.com/">Visit our app now!</a>
 
 ## Introduction
 
@@ -14,7 +18,7 @@ University of Hawaiʻi at Manoa is <b>our</b> campus. We all deserve a campus th
 
 <a href="https://github.com/uhm-hotfix/uhm-hotfix/projects/2">GitHub Milestone 2</a>
 
-![init-mockup](assets/screencapture-localhost-3000-2018-11-11-13_40_10.png)
+<a href="https://github.com/uhm-hotfix/uhm-hotfix/projects/3">GitHub Milestone 3</a>
 
 
 ## Features
@@ -33,17 +37,21 @@ University of Hawaiʻi at Manoa is <b>our</b> campus. We all deserve a campus th
 UHM Hotfix uses the Meteor full stack web framework, The React library, Semantic UI, and MongoDB.
 
 ## User Guide
-UHM Hotfix is at the early stages of developement. As of now, users can create an acount, and checkout a basic layout for how the site will function. 
+UHM Hotfix is at the early stages of development. As of now, users can create an acount, and checkout a basic layout for how the site will function. 
 
 When you first go the the site, you are greeted with a landing page the explains what the project is about. 
 
-![landing-page](assets/screencapture-localhost-3000-2018-11-11-13_40_10.png)
+<img  width="500" style="text-align:center; border-style:solid; border-width:10px;" src="http://uhm-hotfix.github.io/assets/screencapture-localhost-3000-2018-11-11-13_40_10.png">
+
+---
 
 
-The first thing you want to do is make a user account. Go to the top right corner of the page an click new user. 
+The first thing you want to do is make a user account. Go to the top right corner of the page an click new user.
 
 
 ![create-user](assets/create-user.png)
+
+---
 
 
 Now that you have an account, you can click on  the "report issue" button on the top menu to checkout the report issue page.
@@ -51,11 +59,14 @@ Now that you have an account, you can click on  the "report issue" button on the
 
 ![report-issue](assets/report-issue.png)
 
+---
 
 Lastly, You can get a feel of how the issues will be displayed on the page by clicking issue feed on the top menu.
 
 
 ![list-issues](assets/list-issues.png)
+
+---
 
 
 
