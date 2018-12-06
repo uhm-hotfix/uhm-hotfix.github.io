@@ -57,7 +57,7 @@ The first thing you want to do is make a user account. Go to the top right corne
 Now that you have an account, you can click on  the "report issue" button on the top menu to checkout the report issue page.
 
 
-<img width='500' style="border-style:solid; border-width: 5px;" src="http://uhm-hotfix.github.io/assets/report-issue.png">
+<img width='500' style="border-style:solid; border-width: 5px;" src="http://uhm-hotfix.github.io/assets/reportPage-2.png">
 
 ---
 
