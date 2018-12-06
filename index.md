@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/semantic-ui@2.4.0/dist/semantic.min.css"></link>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/semantic-ui@2.4.0/dist/semantic.min.css">
 
 <img src="assets/logo.png" alt="logo" width="300"/>
 
