@@ -104,7 +104,12 @@ Nicolas is a computer science major at UH manoa. His interest in coding was spar
 
 Will is a Kapiolani Community College transfer student and computer science major at UH Manoa. His interest in mathmatics led him to discover the joys of Computer Science via a research project involving data science. His interests include software developement, low-level programming, integrated systems, and data science. He has experience in C, C++, Python, Java, HTML and CSS, JS, Linux, and SQL.
 
+# Community Feedback
+"UH definetly needs something like this. Their are plenty of things I would report in just the dorms alone!" - Emily Pang
 
+"It looks ok but it could look better" - Ethan Chow
+
+"Where was this when someone threw up in the dorm elevator?" - Leighton Villanueva 
 # Next Steps
 
 The team will flesh out the feed page, add comments to each issue, and add Geolocation capabilities.
